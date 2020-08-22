@@ -1,0 +1,2 @@
+# FUNFUN
+FUNFUN is a unity application that contains 4 games:   The memory game is played to elevate your concentration level and to refresh your memory   Santa jumper it has the santa player that jumps without falling  Fruit eater where you eat the fruit but tou have to stay away from bombs that will kill you  Gravity is a game where the player changes gravity to escape from danger and to eat coins
