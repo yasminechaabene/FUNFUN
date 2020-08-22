@@ -19,3 +19,5 @@ Gravity is a game where the player changes gravity to escape from danger and to 
 
 ![6](https://user-images.githubusercontent.com/44651085/90846862-0d23bc00-e361-11ea-985f-377b842cfbbf.png)
 
+![background](https://user-images.githubusercontent.com/44651085/90945081-90551880-e41a-11ea-8dca-b02ea30bd919.png)
+
